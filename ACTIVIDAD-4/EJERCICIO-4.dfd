@@ -1,0 +1,49 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+34
+'Ingrese el nombre del trabajador'
+5
+1
+6
+nombre
+4
+1
+33
+'Ingrese la clave del trabajador'
+5
+1
+13
+claveEmpleado
+4
+1
+53
+'Ingrese el número de días trabajados en la quincena'
+5
+1
+14
+diasTrabajados
+4
+1
+37
+'Ingrese el costo por hora trabajada'
+5
+1
+12
+costoPorHora
+6
+1
+15
+sueldoQuincenal
+33
+diasTrabajados * 8 * costoPorHora
+4
+1
+112
+'Nombre: ', nombre ,' - ' , 'Clave de empleado: ', claveEmpleado, ' - ' , 'Sueldo quincenal: $', sueldoQuincenal
+1

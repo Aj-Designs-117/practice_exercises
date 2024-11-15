@@ -1,0 +1,74 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+20
+menoresOIgualesACero
+1
+0
+12
+mayoresACero
+1
+0
+4
+1
+42
+'Ingrese la cantidad de números a evaluar'
+5
+1
+1
+N
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+4
+1
+23
+'ngrese el número ' , i
+5
+1
+8
+cantidad
+7
+0
+1
+13
+cantidad <= 0
+6
+1
+12
+mayoresACero
+16
+mayoresACero + 1
+13
+6
+1
+20
+menoresOIgualesACero
+24
+menoresOIgualesACero + 1
+13
+10
+4
+1
+70
+'Cantidad de números menores o iguales a cero ' , menoresOIgualesACero
+4
+1
+52
+'Cantidad de números mayores a cero ' , mayoresACero
+1

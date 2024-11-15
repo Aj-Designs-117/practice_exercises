@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'Ingrese el radio del circulo'
+5
+1
+5
+radio
+6
+2
+2
+PI
+6
+3.1416
+17
+areaCircuferencia
+18
+PI * radio * radio
+4
+1
+53
+'El area de la circuferencia es: ', areaCircuferencia
+1

@@ -1,0 +1,45 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+'Ingrese el lado A del terreno'
+5
+1
+1
+A
+4
+1
+31
+'Ingrese el lado B del terreno'
+5
+1
+1
+B
+4
+1
+31
+'Ingrese el lado C del terreno'
+5
+1
+1
+C
+6
+2
+13
+semiPerimetro
+15
+(A + B + C) / 2
+4
+area
+85
+sqrt(semiPerimetro * (semiPerimetro - A) * (semiPerimetro - B) * (semiPerimetro - C))
+4
+1
+54
+'El área del terreno es: ' , area ,' metros cuadrados'
+1

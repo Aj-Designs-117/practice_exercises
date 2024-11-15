@@ -1,0 +1,131 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+32
+'Ingrese el tipo de uva (A o B)'
+5
+1
+8
+tipo_uva
+4
+1
+37
+'Ingrese el tamaño de la uva (1 o 2)'
+5
+1
+10
+tamano_uva
+4
+1
+46
+'Ingrese el precio inicial por kilo de uva: $'
+5
+1
+14
+precio_inicial
+4
+1
+47
+'Ingrese la cantidad de kilos de uva entregada'
+5
+1
+5
+kilos
+7
+0
+1
+32
+tipo_uva = 'A' OR tipo_uva = 'a'
+7
+0
+1
+32
+tipo_uva = 'B' OR tipo_uva = 'b'
+4
+1
+22
+'Tipo de uva inválido'
+13
+7
+0
+1
+14
+tamano_uva = 1
+7
+0
+1
+14
+tamano_uva = 2
+4
+1
+24
+'Tamaño de uva inválido'
+13
+6
+1
+12
+precio_final
+21
+precio_inicial - 0.50
+13
+13
+6
+1
+12
+precio_final
+21
+precio_inicial - 0.30
+13
+13
+13
+7
+0
+1
+14
+tamano_uva = 1
+7
+0
+1
+14
+tamano_uva = 2
+4
+1
+25
+'Tamaño de uva inválido.'
+13
+6
+1
+12
+precio_final
+21
+precio_inicial + 0.30
+13
+13
+6
+1
+12
+precio_final
+21
+precio_inicial + 0.20
+13
+13
+6
+1
+8
+ganancia
+20
+precio_final * kilos
+4
+1
+41
+'Precio final por kilo: $' , precio_final
+4
+1
+46
+'Ganancia total por el embarque: $' , ganancia
+1

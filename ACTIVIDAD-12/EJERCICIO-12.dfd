@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+37
+'Introduce el radio del cilindro (R)'
+5
+1
+1
+R
+4
+1
+38
+'Introduce la altura del cilindro (H)'
+5
+1
+1
+H
+6
+2
+4
+area
+24
+2 * 3.1416 * R * (R + H)
+7
+volumen
+18
+3.1416 * R * R * H
+4
+1
+85
+'El área del cilindro es: ' , area , ' - ' , 'El volumen del cilindro es: ' , volumen
+1

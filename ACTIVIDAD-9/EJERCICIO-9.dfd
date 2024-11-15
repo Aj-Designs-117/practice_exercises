@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+23
+'Ingrese el valor de H'
+5
+1
+1
+H
+4
+1
+23
+'Ingrese el valor de R'
+5
+1
+1
+R
+6
+3
+6
+altura
+19
+sqrt((H*H) - (R*R))
+13
+areaTriangulo
+22
+((R * altura) / 2) * 2
+17
+areaCircuferencia
+20
+(3.1416 * (R*R)) / 2
+6
+1
+9
+areaTotal
+33
+areaTriangulo + areaCircuferencia
+4
+1
+65
+'El área total del terreno es: ' , areaTotal, ' metros cuadrados'
+1

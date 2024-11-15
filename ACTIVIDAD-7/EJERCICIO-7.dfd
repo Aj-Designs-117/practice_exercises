@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+42
+'Ingrese la cantidad de litros producidos'
+5
+1
+16
+litrosProducidos
+4
+1
+29
+'Ingrese el precio por galón'
+5
+1
+14
+precioPorGalon
+6
+2
+14
+litrosPorGalon
+5
+3.785
+11
+totalAPagar
+52
+(litrosProducidos / litrosPorGalon) * precioPorGalon
+4
+1
+57
+'El total a recibir por la producción es: $', totalAPagar
+1

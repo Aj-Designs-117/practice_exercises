@@ -1,0 +1,70 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+10
+sumaEdades
+1
+0
+4
+1
+32
+'Introduce el numero de alumnos'
+5
+1
+13
+numeroAlumnos
+7
+0
+1
+18
+numeroAlumnos <= 0
+8
+1
+1
+i
+1
+1
+1
+1
+13
+numeroAlumnos
+1
+1
+1
+4
+1
+35
+'Introduce la edad del alumno ' , i
+5
+1
+4
+edad
+6
+1
+10
+sumaEdades
+17
+sumaEdades + edad
+10
+6
+1
+8
+promedio
+26
+sumaEdades / numeroAlumnos
+4
+1
+45
+'La edad promedio del grupo es: ' , promedio 
+13
+4
+1
+46
+'El numero de alumnos debe ser mayor que cero'
+13
+1

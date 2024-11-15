@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+8
+1
+6
+grados
+1
+1
+0
+1
+3
+360
+1
+2
+45
+6
+2
+8
+radianes
+23
+grados * 3.1416 / 180.0
+4
+seno
+13
+sin(radianes)
+4
+1
+44
+'Seno de ' , grados , ' grados es: ' , seno 
+10
+1

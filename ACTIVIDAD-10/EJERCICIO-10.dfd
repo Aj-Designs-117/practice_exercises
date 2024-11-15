@@ -1,0 +1,49 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+51
+'Ingrese las coordenadas del primer punto (x1, y1)'
+5
+1
+2
+X1
+5
+1
+2
+Y1
+4
+1
+52
+'Ingrese las coordenadas del segundo punto (x2, y2)'
+5
+1
+2
+X2
+5
+1
+2
+Y2
+6
+3
+2
+dx
+7
+X2 - X1
+2
+dy
+7
+Y2 - Y1
+9
+distancia
+27
+sqrt((dx * dx) + (dy * dy))
+4
+1
+47
+'La distancia entre los puntos es: ', distancia
+1

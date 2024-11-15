@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+23
+'Ingrese el año actual'
+5
+1
+10
+anioActual
+4
+1
+30
+'Ingrese el año de nacimiento'
+5
+1
+14
+anioNacimiento
+6
+1
+4
+edad
+27
+anioActual - anioNacimiento
+4
+1
+61
+'La edad de la persona es aproximadamente: ' , edad , ' años'
+1

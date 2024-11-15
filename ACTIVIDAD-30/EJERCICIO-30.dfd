@@ -1,0 +1,44 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+32
+'Ingrese la cantidad de lápices'
+5
+1
+8
+cantidad
+7
+0
+1
+16
+cantidad >= 1000
+6
+1
+6
+precio
+4
+0.90
+13
+6
+1
+6
+precio
+4
+0.85
+13
+6
+1
+5
+total
+17
+cantidad * precio
+4
+1
+62
+'El total a pagar por ' , cantidad , ' lápices es: $' , total 
+1

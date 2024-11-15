@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+46
+'Introduce la velocidad del automóvil en km/h'
+5
+1
+13
+velocidad_kmh
+6
+1
+12
+velocidad_ms
+29
+(velocidad_kmh * 1000) / 3600
+4
+1
+41
+'La velocidad en m/s es: ' , velocidad_ms
+1

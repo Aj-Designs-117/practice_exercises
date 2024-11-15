@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+32
+'Ingrese el precio del traje: $'
+5
+1
+6
+precio
+7
+0
+1
+16
+precio > 2500.00
+6
+1
+9
+descuento
+13
+precio * 0.08
+13
+6
+1
+9
+descuento
+13
+precio * 0.15
+13
+6
+1
+12
+precio_final
+18
+precio - descuento
+4
+1
+35
+'Descuento aplicado: $' , descuento
+4
+1
+40
+'Precio final a pagar: $' , precio_final
+1

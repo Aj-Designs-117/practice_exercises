@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+58
+'Introduce un numero para generar su tabla de multiplicar'
+5
+1
+6
+numero
+8
+1
+1
+i
+1
+1
+1
+1
+2
+10
+1
+1
+1
+6
+1
+6
+result
+10
+numero * i
+4
+1
+35
+numero , ' x ' , i , ' = ' , result
+10
+1

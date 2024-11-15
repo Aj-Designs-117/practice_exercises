@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+41
+'Ingrese el precio original del artículo'
+5
+1
+14
+precioOriginal
+6
+3
+9
+descuento
+21
+precioOriginal * 0.20
+18
+precioConDescuento
+26
+precioOriginal - descuento
+3
+IVA
+25
+precioConDescuento * 0.15
+6
+1
+11
+precioFinal
+24
+precioConDescuento + IVA
+4
+1
+108
+'El precio con descuento es: $' , precioConDescuento , ' - ' , 'El precio final con IVA es: $' , precioFinal
+1

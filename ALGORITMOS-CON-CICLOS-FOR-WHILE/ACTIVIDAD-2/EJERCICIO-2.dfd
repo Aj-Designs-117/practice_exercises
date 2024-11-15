@@ -1,0 +1,54 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+48
+'Introduce un numero para calcular su factorial'
+5
+1
+6
+numero
+7
+0
+1
+10
+numero < 0
+8
+1
+1
+i
+1
+1
+1
+1
+6
+numero
+1
+1
+1
+6
+2
+9
+factorial
+1
+1
+9
+factorial
+13
+factorial * i
+4
+1
+49
+'El factorial de ' , numero , ' es: ', factorial 
+10
+13
+4
+1
+54
+'El factorial no está definido para números negativos'
+13
+1

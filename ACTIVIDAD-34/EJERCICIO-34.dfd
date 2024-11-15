@@ -1,0 +1,84 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'Ingrese el número de alumnos'
+5
+1
+11
+num_alumnos
+7
+0
+1
+18
+num_alumnos >= 100
+7
+0
+1
+17
+num_alumnos >= 50
+7
+0
+1
+17
+num_alumnos >= 30
+6
+2
+16
+costo_por_alumno
+21
+4000.00 / num_alumnos
+13
+total_a_pagar
+7
+4000.00
+13
+6
+2
+16
+costo_por_alumno
+5
+95.00
+13
+total_a_pagar
+30
+costo_por_alumno * num_alumnos
+13
+13
+6
+2
+16
+costo_por_alumno
+5
+70.00
+13
+total_a_pagar
+30
+costo_por_alumno * num_alumnos
+13
+13
+6
+2
+16
+costo_por_alumno
+5
+65.00
+13
+total_a_pagar
+30
+costo_por_alumno * num_alumnos
+13
+4
+1
+58
+'Pago total a la compañía de autobuses: $' , total_a_pagar
+4
+1
+40
+'Costo por alumno: $' , costo_por_alumno
+1

@@ -1,0 +1,57 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+51
+'Ingrese la calificacion de diseño por computadora'
+5
+1
+17
+disenoComputadora
+4
+1
+36
+'Ingrese la calificacion de algebra'
+5
+1
+7
+algebra
+4
+1
+39
+'Ingrese la calificacion de cinematica'
+5
+1
+10
+cinematica
+4
+1
+47
+'Ingrese la calificacion diseño de estructuras'
+5
+1
+17
+disenoEstructuras
+4
+1
+38
+'Ingrese la calificacion programacion'
+5
+1
+12
+programacion
+6
+1
+13
+promedioTotal
+85
+(disenoComputadora + algebra +  cinematica +  disenoEstructuras +  programacion)  / 5
+4
+1
+44
+'El promedio del alumno es: ', promedioTotal
+1

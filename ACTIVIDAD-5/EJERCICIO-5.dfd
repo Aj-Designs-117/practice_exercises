@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+37
+'Ingrese la descripción del producto'
+5
+1
+11
+descripcion
+4
+1
+40
+'Ingrese el costo por caja del producto'
+5
+1
+12
+costoPorCaja
+6
+2
+4
+ IVA
+4
+0.16
+19
+precioUnitarioVenta
+31
+(costoPorCaja / 10) * (1 + IVA)
+4
+1
+91
+'Descripción: ' , descripcion , ' Precio de venta (incluyendo IVA): $', precioUnitarioVenta
+1

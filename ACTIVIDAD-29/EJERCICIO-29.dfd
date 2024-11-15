@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+19
+'Ingrese su nombre'
+5
+1
+6
+nombre
+4
+1
+30
+'Ingrese su año de nacimiento'
+5
+1
+13
+anoNacimiento
+6
+2
+9
+anoActual
+4
+2024
+4
+edad
+25
+anoActual - anoNacimiento
+7
+0
+1
+10
+edad >= 18
+4
+1
+28
+nombre , ' es menor de edad'
+13
+4
+1
+28
+nombre , ' es mayor de edad'
+13
+1

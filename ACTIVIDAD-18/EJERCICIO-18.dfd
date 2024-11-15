@@ -1,0 +1,44 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+49
+'Ingrese la distancia entre las ciudades (en km)'
+5
+1
+9
+distancia
+4
+1
+58
+'Ingrese la velocidad constante de la bicicleta (en km/h)'
+5
+1
+9
+velocidad
+7
+0
+1
+13
+velocidad = 0
+6
+1
+6
+tiempo
+21
+distancia / velocidad
+4
+1
+54
+'El tiempo estimado de viaje es: ' , tiempo , ' horas'
+13
+4
+1
+32
+'La velocidad no puede ser cero'
+13
+1

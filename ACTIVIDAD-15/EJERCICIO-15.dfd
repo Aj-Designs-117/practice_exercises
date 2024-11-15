@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+55
+'Ingrese el total de metros cúbicos de agua consumidos'
+5
+1
+14
+metros_cubicos
+4
+1
+44
+'Ingrese la tarifa por metro cúbico de agua'
+5
+1
+16
+tarifa_por_metro
+6
+1
+4
+pago
+34
+ metros_cubicos * tarifa_por_metro
+4
+1
+54
+'El total a pagar por el consumo de agua es: $' , pago
+1

@@ -1,0 +1,57 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+46
+'Ingrese el número de personas para el evento'
+5
+1
+8
+personas
+7
+0
+1
+14
+personas > 300
+7
+0
+1
+14
+personas > 200
+6
+1
+17
+costo_por_persona
+5
+95.00
+13
+6
+1
+17
+costo_por_persona
+5
+85.00
+13
+13
+6
+1
+17
+costo_por_persona
+5
+75.00
+13
+6
+1
+11
+presupuesto
+28
+personas * costo_por_persona
+4
+1
+42
+'El presupuesto total es: $' , presupuesto
+1
